@@ -1,0 +1,16 @@
+.eslintignore
+.eslintrc.json
+.git
+.github
+.gitignore
+.idea
+.npmrc
+.travis*
+.travis.yml
+README.md
+docker/Dockerfile*
+images
+node_modules
+scripts
+test
+update.sh
